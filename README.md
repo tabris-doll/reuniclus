@@ -14,7 +14,7 @@ A **Tkinter-based** flashcard app for mastering Japanese Hiragana with stats tra
 ```bash
 git clone https://github.com/tabris-doll/reuniclus-hiragana.git
 cd reuniclus-hiragana
-python3 reuniclus.py
+python reuniclus.py
 ```
 
 **Requirements**:  
