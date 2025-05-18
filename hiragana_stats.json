@@ -1,0 +1,193 @@
+{
+  "total_correct": 34,
+  "total_attempts": 36,
+  "hiragana_stats": {
+    "あ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "い": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "う": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "え": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "お": {
+      "correct": 1,
+      "attempts": 2
+    },
+    "か": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "き": {
+      "correct": 2,
+      "attempts": 2
+    },
+    "く": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "け": {
+      "correct": 2,
+      "attempts": 2
+    },
+    "こ": {
+      "correct": 0,
+      "attempts": 1
+    },
+    "さ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "し": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "す": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "せ": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "そ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "た": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "ち": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "つ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "て": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "と": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "な": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "に": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "ぬ": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "ね": {
+      "correct": 2,
+      "attempts": 2
+    },
+    "の": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "は": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "ひ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "ふ": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "へ": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "ほ": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "ま": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "み": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "む": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "め": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "も": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "や": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "ゆ": {
+      "correct": 2,
+      "attempts": 2
+    },
+    "よ": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "ら": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "り": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "る": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "れ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "ろ": {
+      "correct": 0,
+      "attempts": 0
+    },
+    "わ": {
+      "correct": 2,
+      "attempts": 2
+    },
+    "を": {
+      "correct": 1,
+      "attempts": 1
+    },
+    "ん": {
+      "correct": 0,
+      "attempts": 0
+    }
+  },
+  "streak": 11,
+  "longest_streak": 23,
+  "last_session": "2025-05-17 18:46:46"
+}
