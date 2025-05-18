@@ -12,7 +12,7 @@ A **Tkinter-based** flashcard app for mastering Japanese Hiragana with stats tra
 
 ## How to Run  
 ```bash
-git clone https://github.com/your-username/reuniclus-hiragana.git
+git clone https://github.com/tabris-dolle/reuniclus-hiragana.git
 cd reuniclus-hiragana
 python3 reuniclus.py
 ```
